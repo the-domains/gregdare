@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[GregDare]]></title>
         <description><![CDATA[GregDare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gregdare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 16:48:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 16:59:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gregdare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shark feeding/gathering outside Destin East Pass.]]></title>
+            <description><![CDATA[<article><h1>Shark feeding/gathering outside Destin East Pass.</h1><p>Well over 100 sharks swimming around the sandbar outside of Destin Florida's East Pass. Facebook.com/birdseyeviewFL. Birds-iView.com Disclaimer - We do not own all of these songs. All sounds on this Vimeo Channel are for promotional reasons only. Any artistic perspective portrayed in any of the the songs comes from the artist of the song only.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9171143873b0c96094d982a77a90202d520223c.jpg"></article>]]></description>
+            <link>https://vimeo.com/139870011</link>
+            <guid isPermaLink="false">242e6c59-2146-4bf7-9fdf-6ecdda083caa</guid>
+            <pubDate>Wed, 09 Dec 2015 16:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[13 Signs You're An Emotionally Intelligent Person]]></title>
-            <description><![CDATA[<article><h1>13 Signs You're An Emotionally Intelligent Person</h1><p>Emotional intelligence is important for more reasons than that it draws yet another line between you and a serial killer. (Woohoo!) Emotional intelligence helps you better understand people, it contributes to your IQ by helping you better understand situations that require empathy, and it can help you adjust to change</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c046cf95da37b61e8770c9083cd95f48ceed73d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>13 Signs You're An Emotionally Intelligent Person</h1><p>Emotional intelligence is important for more reasons than that it draws yet another line between you and a serial killer. (Woohoo!) Emotional intelligence helps you better understand people, it contributes to your IQ by helping you better understand situations that require empathy, and it can help you adjust to change</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb0ad87b79faad362190369f8bfe6a37c44be72f.jpg"></article>]]></description>
             <link>http://www.simplemost.com/signs-you-are-an-emotionally-intelligent-person/</link>
             <guid isPermaLink="false">1d0a1c16-d695-4cb7-bfd5-08dab60f828b</guid>
             <pubDate>Wed, 09 Dec 2015 16:48:12 GMT</pubDate>
