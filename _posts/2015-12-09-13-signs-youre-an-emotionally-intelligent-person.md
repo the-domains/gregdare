@@ -17,8 +17,8 @@ keywords:
   - tuned
   - self-aware
 description: 'Emotional intelligence is important for more reasons than that it draws yet another line between you and a serial killer. (Woohoo!) Emotional intelligence helps you better understand people, it contributes to your IQ by helping you better understand situations that require empathy, and it can help you adjust to change'
-datePublished: '2015-12-09T16:48:12.085Z'
-dateModified: '2015-12-09T16:47:43.864Z'
+datePublished: '2015-12-09T17:04:40.162Z'
+dateModified: '2015-12-09T17:03:48.017Z'
 author:
   - name: Josephine Yurcaba
     url: 'http://www.simplemost.com/author/josephineyurcaba/'
@@ -61,16 +61,16 @@ related:
     thumbnail_width: 698
 app_links: []
 title: "13 Signs You're An Emotionally Intelligent Person"
+sourcePath: _posts/2015-12-09-13-signs-youre-an-emotionally-intelligent-person.md
+published: true
 authors: []
 publisher:
   name: Simplemost
   domain: www.simplemost.com
   url: 'http://www.simplemost.com'
   favicon: 'http://s3.amazonaws.com/simplemost/wp-content/uploads/2015/09/15150135/simplemostfav3.png'
-sourcePath: _posts/2015-12-09-13-signs-youre-an-emotionally-intelligent-person.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>13 Signs You're An Emotionally Intelligent Person</h1><p>Emotional intelligence is important for more reasons than that it draws yet another line between you and a serial killer&amp;period; &amp;lpar;Woohoo&amp;excl;&amp;rpar; Emotional intelligence helps you better understand people&amp;comma; it contributes to your IQ by helping you better understand situations that require empathy&amp;comma; and it can help you adjust to change</p><img src="http://s3.amazonaws.com/simplemost/wp-content/uploads/2015/08/18144203/f464d773788f3e2e_640_intelligent-woman.jpg" /></article>
+<article style=""><h1>13 Signs You're An Emotionally Intelligent Person</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c046cf95da37b61e8770c9083cd95f48ceed73d.jpg" /></article>
