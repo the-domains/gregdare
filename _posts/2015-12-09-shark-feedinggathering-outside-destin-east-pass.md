@@ -1,7 +1,8 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://vimeo.com/139870011'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - glossary
   - disclaimer
 description: "Well over 100 sharks swimming around the sandbar outside of Destin Florida's East Pass. Facebook.com/birdseyeviewFL. Birds-iView.com Disclaimer - We do not own all of these songs. All sounds on this Vimeo Channel are for promotional reasons only. Any artistic perspective portrayed in any of the the songs comes from the artist of the song only."
-datePublished: '2015-12-09T23:39:36.989Z'
-dateModified: '2015-12-09T23:39:31.965Z'
+datePublished: '2015-12-09T23:42:19.050Z'
+dateModified: '2015-12-09T23:42:02.579Z'
 author:
   - name: Cory
     url: 'http://vimeo.com/user23682919'
@@ -47,16 +48,15 @@ app_links:
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-title: Shark feeding outside Destin East Pass.
-sourcePath: _posts/2015-12-09-shark-feedinggathering-outside-destin-east-pass.md
-published: true
+title: Shark feeding/gathering outside Destin East Pass.
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-url: shark-feeding-outside-destin-east-pass/index.html
+sourcePath: _posts/2015-12-09-shark-feedinggathering-outside-destin-east-pass.md
+published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
